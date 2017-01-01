@@ -1,6 +1,12 @@
 # Picture2GCode
 Einfaches graphisches Pythonprogramm, welches Bilder in GCode wandelt um mit einem Laserplotter zu verwenden.
 
+Das Skript ist in der Python Version 3.5 programmiert worden.
+Folgende zusätzliche Bibliotheken sind erforderlich:
+- PyQt4
+- Numpy
+- PIL(Python Imaging Library)
+
 _**Tutorial:**_
 
 ![Oberfläche1](/pictures/Picture2GcodeTut1.png)
