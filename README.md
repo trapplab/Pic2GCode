@@ -18,3 +18,7 @@ Beim starten des Skripts öffnet sich diese Oberfläche. In der Maske kann man d
 
 Nach Auswahl des Fotos und Drücken des Convert-Buttons zeigt der Ladebalken den aktuellen Fortschritt an. Nach Abschluss wird die größe des Bildes in Pixel unten links angezeigt und der erzeugte G-Code im unteren Bild dargestellt. Hellblaue Linien sind dabei Wege bei denen der Laser ausgeschalten ist.
 Die erzeugt *.ngc Datei wird dabei im selben Ordner gespeichert, in der sich das Skript befindet
+
+
+Erstes Ergebniss:
+![Ergebniss](/pictures/Resultat.jpg)
