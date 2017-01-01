@@ -7,6 +7,11 @@ Folgende zusätzliche Bibliotheken sind erforderlich:
 - Numpy
 - PIL(Python Imaging Library)
 
+# Update Summary Version 0.2
+- GCode Generator überarbeitet. Besser GCode für neue grbl Version 1.1 mit Laser Mode
+- Angepasste Standartwerte in Masske für Holzgravur
+
+
 _**Tutorial:**_
 
 ![Oberfläche1](/pictures/Picture2GcodeTut1.png)
